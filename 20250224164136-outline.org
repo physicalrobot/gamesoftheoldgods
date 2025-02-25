@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       f2c3ef7c-9b91-4a0c-be57-4a4b420258d1
+:END:
+#+title: outline
+
+* [[id:a27ae308-9c8f-40a6-a6ce-e11ed65541fe][TOC]]

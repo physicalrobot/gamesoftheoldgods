@@ -1,1 +1,1 @@
-((nil . ((org-roam-directory . "~/Documents/GamesOfTheOldGods/"))))
+((org-mode . ((org-roam-directory . "~/Documents/GamesOfTheOldGods/"))))
