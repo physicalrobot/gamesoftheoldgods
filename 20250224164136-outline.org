@@ -6,76 +6,139 @@
 
 * [[id:a27ae308-9c8f-40a6-a6ce-e11ed65541fe][TOC]]
 
-* STRUCTURE OVERVIEW
+* [[id:1162e085-bf7f-4f5e-ae3d-d930c6357a7a][Worldbuilding]]
 
-** Act 1: The Firebrand's Ascent
-*** 1. The Origins of Aag Emberpeak
-    - Introduction to Agni-Shikhara and its rich Vedic-inspired traditions.
-    - The warrior caste, the Agni-Rakshakas, and their sacred bond with the Agni-Sarpa.
-    - Aag’s upbringing, training, and restless spirit.
-*** 2. The Prophecy and the Call to Adventure
-    - The elders speak of an ancient prophecy foretelling the need for Agni’s light in the wider world.
-    - Aag has a vision of a dark force engulfing the land.
-    - Against the will of the elders, he sets out on his journey, vowing to return stronger.
-*** 3. Entering the Unknown
-    - The descent from the Spinebreaker Mountains is perilous.
-    - Aag’s first encounters with the world outside—different cultures, different struggles.
-    - The first hints of a grander conflict in the world beyond.
-*** 4. The Trial of the Ashen Vanara (Introduction of Bhaskar)
-    - Deep in an ancient, overgrown temple of Agni, Aag faces a test of strength and spirit.
-    - The guardian, **Bhaskar, the Ashen Vanara**, emerges—a mystical simian with ember-flecked fur and glowing eyes.
-    - Bhaskar possesses a **sacred size-shifting ability**, allowing him to grow immensely or shrink—**but he must remain equally small for as long as he was large**.
-    - Aag, though outmatched in combat, uses his **wit and determination** to hold his own.
-    - Seeing Aag’s **unyielding will**, Bhaskar recognizes him as the Firebrand and swears his loyalty.
-    - Bhaskar hints at an **ancient vow**, binding him to protect Agni’s chosen.
+#+title: Aag Emberpeak – Story Outline
+#+roam_tags: story structure myth epic hero's journey forestgumpstyle
 
-** Act 2: The Fall from Glory
-*** 5. The Flourishing Firebrand
-    - Aag gains recognition through heroic deeds, earning followers and allies.
-    - Bhaskar serves as Aag’s closest companion, adviser, and protector.
-    - Aag and Bhaskar’s **combined combat style**—Bhaskar shifting sizes unpredictably, overwhelming foes—becomes legendary.
-    - Aag experiences love, perhaps finding a kindred spirit in a companion.
-    - His growing reputation attracts the attention of a powerful ruler or antagonist.
-*** 6. The Great Betrayal
-    - A scheme orchestrated by the antagonist results in Aag’s downfall.
-    - He is stripped of his power, status, and possibly even accused of treason.
-    - His beloved (a Sita-like figure) is taken from him.
-    - **Bhaskar is captured and sealed within a powerful curse**, preventing him from using his size-altering ability.
-    - Jyoti, Aag’s serpent companion, is grievously injured or lost.
-*** 7. Exile and the Humble Life
-    - Aag is forced into hiding in an unfamiliar land.
-    - He lives a simple, humble existence, reflecting on his failures.
-    - He befriends the local wildlife, nature spirits, and unlikely outcasts.
-    - In his solitude, he grows stronger in a new way—learning the wisdom of the natural world.
-    - **Aag begins searching for a way to break Bhaskar’s seal.**
+* Story Title: The Firebrand’s Ascent
+:PROPERTIES:
+:genre: Epic Mythic Fantasy
+:hero: Aag Emberpeak
+:theme: Nature vs Civilization, Innocence vs Corruption, Fire as Rebirth
+:END:
 
-** Act 3: The Gathering of Allies
-*** 8. The Liberation of Bhaskar
-    - Aag embarks on a dangerous mission to **break the curse binding Bhaskar’s abilities**.
-    - The ritual or artifact needed is hidden in an ancient, perilous ruin.
-    - The challenge requires **deep trust between Aag and Bhaskar**, proving their bond.
-    - Aag succeeds, and **Bhaskar is freed**, regaining control over his abilities.
-    - Bhaskar, ashamed of his capture, swears to help Aag reclaim his honor.
-*** 9. The Spark of Rebellion
-    - Aag learns of the antagonist’s growing tyranny.
-    - He meets others who have suffered under this rule.
-    - He begins gathering a band of warriors, outcasts, and even creatures of nature.
-    - Bhaskar becomes Aag’s **strongest general**, using his intelligence and unpredictability to inspire warriors.
-*** 10. Reigniting the Flame
-    - Aag embarks on a quest to restore his bond with Jyoti.
-    - He undergoes a trial to reignite the sacred fire within himself.
-    - With renewed strength, he leads his allies to challenge the antagonist.
-*** 11. The Clash of Fire and Shadow
-    - The final battle against the antagonist’s forces.
-    - The unlikely alliance of warriors, beasts, and nature itself.
-    - **Bhaskar utilizes his size-altering power strategically**—growing to massive proportions for short bursts and then shrinking down to recover.
-    - Aag and Bhaskar fight side by side, their bond stronger than ever.
-    - The antagonist’s downfall marks the restoration of balance.
+** [[id:firebrands-ascent][Act 1 – Ember Among the Ash]]
+*** Born of Fire and Mist
+- Setting: Agni-Shikhara, a high volcanic sanctuary in the Spinebreaker Mountains.
+- Aag Emberpeak is born into the warrior caste Agni-Rakshakas.
+- He trains with them but is more in tune with nature than warfare.
+- Companion: [[id:jyoti][Jyoti]], a sacred sentient Nāga, telepathic and hyper-sensory.
+- Jyoti can:
+  - See through walls
+  - Sense threats
+  - Recall names/faces across lifetimes
+  - Regenerate via shedding
+*** The Vision and the Break
+- Aag receives a fire vision: a shadow spreading across the land.
+- Elders dismiss him.
+- Aag leaves his mountain, guided by instinct and a vow to return stronger.
+*** Into the World Below
+- Aag meets cities, corruption, and cultures disconnected from the earth.
+- The world desires the Ten Sacred Species—Aag realizes Jyoti is one of them.
+*** The Trial of the Ashen Vanara
+- Aag discovers an ancient temple of Agni.
+- Faces Bhaskar, an ember-eyed Vanara who can shift size:
+  - Grows or shrinks at will
+  - Time must balance (large time = small time)
+- Aag loses the fight, but his spirit earns Bhaskar’s loyalty.
 
-** Act 4: The Return and Legacy
-*** 12. The Aftermath and the Return
-    - Aag rescues his beloved (if still alive) or makes peace with his loss.
-    - He returns to Agni-Shikhara, changed but triumphant.
-    - Bhaskar, now fully redeemed, chooses to remain with Aag as his eternal protector.
-    - The prophecy is fulfilled, and the sacred fire spreads beyond the mountains.
-    - The legend of Aag Emberpeak and Bhaskar, the Ashen Vanara, is born.
+** [[id:fall-from-flame][Act 2 – Fall from Flame]]
+*** The Rising Fire
+- Aag becomes a reluctant folk hero through deeds and alliances.
+- Combat with Bhaskar becomes legendary.
+- He meets [[id:lalei][Lalei]], a sharp, grounded healer-strategist with a mysterious past.
+- Their bond grows into love.
+*** The Scorching Lie
+- Aag is invited to a city of power and betrayed.
+- Accused of treason. Lalei is taken. Jyoti is nearly destroyed.
+- Bhaskar is cursed—size-shifting locked.
+- Aag loses everything.
+*** Ashes in the Soil
+- Aag escapes into exile and learns from the natural world.
+- Befriends animals, spirits, and wild beings.
+- Gains wisdom, patience, clarity.
+- Begins searching for a way to unbind Bhaskar’s curse.
+
+** [[id:fire-reborn][Act 3 – Fire Reborn]]
+*** Breaking the Seal
+- Aag returns, seeking the Cursed Crucible to free Bhaskar.
+- Success depends on trust and shared purpose.
+- Bhaskar is freed and rededicates himself to Aag’s cause.
+*** The Kindling Rebellion
+- Aag gathers misfits, wildfolk, and oppressed warriors.
+- Jyoti returns—now a scout, spy, and spirit-guide.
+- They strike with precision, moving like nature: chaotic, overwhelming, pure.
+*** Trial of Flame and Soul
+- Aag journeys to Mt. Vardhana to rekindle Jyoti’s essence.
+- He confronts apathy—the temptation to stop caring.
+- Rejects it. Chooses fire, light, and love.
+*** The Storm and the Inferno
+- Final battle: sacred beasts, machines, tyrants collide.
+- Bhaskar shifts in battle—massive, then small, disorienting enemies.
+- Aag faces the tyrant—not for vengeance, but balance.
+
+** [[id:return-and-legacy][Act 4 – Return and Legacy]]
+*** Peace and Legacy
+- Lalei is rescued or honored (TBD).
+- Aag returns to Agni-Shikhara not to rule, but to teach and protect.
+- Bhaskar chooses to stay as friend, not bound guardian.
+- The fire lives on—not just in temples, but in hearts.
+
+** [[id:jyoti][Jyoti – Companion Profile]]
+:PROPERTIES:
+:type: sacred species
+:species: Nāga
+:ability: Sentient, telepathic, hyper-sensory
+:resilience: Heatproof, regenerative
+:bond: Aag Emberpeak
+:END:
+
+- One of Ten Sacred Sentient Species
+- Sees through walls
+- Senses distant danger
+- Memorizes souls
+- Communicates silently with Aag
+
+** [[id:bhaskar][Bhaskar – Companion Profile]]
+:PROPERTIES:
+:type: sacred species
+:species: Ashen Vanara
+:ability: Size-shifting (balance time large/small)
+:bond: Aag Emberpeak
+:role: Strategist, protector
+:END:
+
+- Ember-furred simian with glowing eyes
+- Guardian of Agni temple
+- Bound by ancient vow to serve the Firebrand
+- Cursed and redeemed
+
+** [[id:lalei][Lalei – Love Interest]]
+:PROPERTIES:
+:type: character
+:role: Love interest, healer, strategist
+:personality: Sharp, grounded, loyal
+:END:
+
+- Intelligent, experienced in worldly politics and natural healing
+- Believes in calculated resistance
+- Complements Aag’s instinctive purity
+
+** [[id:ten-sacred-species][The Ten Sacred Species]]
+:PROPERTIES:
+:type: lore
+:END:
+
+1. Nāga (Serpent) – Memory, danger-sense, rebirth
+2. Garuda (Eagle) – Speed, strength, wisdom
+3. Hanuman Langur (Monkey) – Courage, loyalty, devotion
+4. Kamadhenu (Cow) – Purity, abundance
+5. Nandi (Bull) – Righteousness, virility
+6. Airavata / Ganesha (Elephant) – Wisdom, protection
+7. Lion / Tiger – Strength, divine wrath
+8. Deer – Grace, gentleness
+9. Hamsa (Swan) – Discernment, purity
+10. Peacock – Beauty, insight, divine allure
+
+---
