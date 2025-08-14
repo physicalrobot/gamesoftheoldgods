@@ -1,0 +1,96 @@
+:PROPERTIES:
+:ID:       726241d6-d8d3-4c40-84d0-2a2a2c98aa46
+:END:
+#+title: Tier 3 Sacred Species - The Ten Spirit Born
+
+
+* Overview
+:PROPERTIES:
+:rarity: Only one living bloodline per species
+:origin: Born from the first vibrations of the Leela
+:traits: Sentient, spiritually resonant, hyper-aware
+:END:
+
+These beings are living echoes of the cosmic harmony that birthed the world.
+They are not gods, but they are closer to the source of creation than any other mortal creature.
+Each embodies a **domain**, a **symbolic virtue**, and a **unique power** that no other can replicate.
+
+---
+
+** 1. [[id:naga][Nāga (Serpent of Memory)]]
+:Domain: Memory & Protection
+:Symbolism: Knowledge, hidden wisdom, guardianship
+:Core Power: Soul-Echo — Perfect recall of names, faces, and soul-essences across lifetimes; can see through solid barriers and sense danger from great distances.
+:Limit: Cannot “unsee” memories; burden of past trauma can weigh heavily.
+
+---
+
+** 2. [[id:garuda][Garuda (Sun Raptor)]]
+:Domain: Sky & Prophecy
+:Symbolism: Freedom, loyalty, divine justice
+:Core Power: Solar Sight — Can see great distances and occasionally receive brief flashes of possible futures.
+:Limit: Visions are fragmented and cannot be forced.
+
+---
+
+** 3. [[id:vanara-divine][Ashen Vanara (Simian of Ember)]]
+:Domain: Adaptability & Spirit
+:Symbolism: Devotion, courage, playfulness
+:Core Power: Ember Shift — Can grow to massive size or shrink to tiny form, but must remain small for as long as it was large.
+:Limit: Overuse leaves them physically and spiritually exhausted.
+
+---
+
+** 4. [[id:kamadhenu][Kamadhenu (Sacred Cow of Abundance)]]
+:Domain: Life & Purity
+:Symbolism: Fertility, nourishment, sanctity
+:Core Power: Earth’s Milk — Purifies poisoned land/water, heals living beings, sustains life with restorative essence.
+:Limit: Can only produce essence after long periods of rest and meditation.
+
+---
+
+** 5. [[id:nandi][Nandi (Bull of Dharma)]]
+:Domain: Strength & Righteousness
+:Symbolism: Virtue, loyalty, endurance
+:Core Power: Dharmic Guard — Generates a protective aura that nullifies hostile magic and resists physical harm.
+:Limit: Aura weakens if Nandi acts against their moral code.
+
+---
+
+** 6. [[id:airavata][Airavata (White Elephant of Cycles)]]
+:Domain: Nature & Renewal
+:Symbolism: Rain, stability, sacred authority
+:Core Power: Cyclekeeper — Can alter the pace of natural cycles (seasons, plant growth, weather patterns) to restore ecological balance.
+:Limit: Cannot stop a cycle entirely, only hasten or delay.
+
+---
+
+** 7. [[id:kurma][Kurma (Tortoise of the Path)]]
+:Domain: Foundations & Passage
+:Symbolism: Patience, stability, creation of paths
+:Core Power: Pathfinder’s Grace — Anchors unstable ground (physical or metaphysical) to create a safe passage where none existed, even between realms.
+:Limit: Must remain in place while anchoring, leaving it vulnerable.
+
+---
+
+** 8. [[id:liontiger][Flame Lion/Tiger (Guardian of Wrath)]]
+:Domain: Battle & Strategy
+:Symbolism: Divine justice, courage, protection
+:Core Power: Valor’s Sight — Instantly perceives a foe’s greatest strength and greatest weakness.
+:Limit: Cannot turn this vision off; can be overwhelmed in large crowds.
+
+---
+
+** 9. [[id:deer-sacred][Sacred Deer (Rohini Line)]]
+:Domain: Grace & Memory
+:Symbolism: Gentleness, spiritual remembrance
+:Core Power: Memory Weaver — Through touch, restores a being’s memories of past lives.
+:Limit: The restored memories may unbalance or harm the recipient’s current self.
+
+---
+
+** 10. [[id:hamsa][Hamsa (Celestial Swan)]]
+:Domain: Spirit & Revelation
+:Symbolism: Purity, discernment, transcendence
+:Core Power: Veilbreaker — Parts the boundary between mortal and spirit realms, revealing hidden truths, entities, or paths.
+:Limit: The veil can only be parted briefly and may allow unwanted things to pass through.

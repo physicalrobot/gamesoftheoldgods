@@ -1,5 +1,5 @@
-:PROPERTIES:
-:ID:       1162e085-bf7f-4f5e-ae3d-d930c6357a7a
+:ID:
+:PROPERTIES:       1162e085-bf7f-4f5e-ae3d-d930c6357a7a
 :END:
 #+title: Worldbuilding
 #+roam_tags: worldbuilding cosmology sacredspecies magicmyth
@@ -52,58 +52,9 @@
   - Possesses a **hyper-sensory trait**
   - Symbolizes a core aspect of the Leela
   - Often targeted, revered, or misunderstood
-- Known Sacred Species:
 
-*** [[id:naga][1. Nāga (Serpent)]]
-- Symbol of memory, protection, hidden knowledge.
-- Species trait: Hyper-sensory memory (names, faces, spirits)
-- Hyper ability: Sees through walls, danger-sense
-- Known example: [[id:jyoti][Jyoti]]
+*** [[id:726241d6-d8d3-4c40-84d0-2a2a2c98aa46][Tier 3 Sacred Species - The Ten Spirit Born]]
 
-*** [[id:garuda][2. Garuda (Sun Raptor)]]
-- Symbol of loyalty, strength, solar freedom.
-- Species trait: Sees across miles, reads intent.
-- Hyper ability: Piercing flight, truth sense.
-
-*** [[id:vanara-divine][3. Ashen Vanara (Mystic Monkey)]]
-- Symbol of courage, devotion, playfulness.
-- Species trait: Size-shifting bound by time limits.
-- Hyper ability: Physical and emotional resonance.
-
-*** [[id:kamadhenu][4. Kamadhenu (Sacred Cow)]]
-- Symbol of fertility, nourishment, pure abundance.
-- Species trait: Heals others through presence.
-- Hyper ability: Purifies corrupted land.
-
-*** [[id:nandi][5. Nandi (Sacred Bull)]]
-- Symbol of strength, virtue, resolve.
-- Species trait: Emits protective barriers.
-- Hyper ability: Can ground or nullify magic.
-
-*** [[id:airavata][6. Airavata (White Elephant)]]
-- Symbol of divine authority, rain, wisdom.
-- Species trait: Controls weather harmonics.
-- Hyper ability: Memory of the earth.
-
-*** [[id:ganesha-line][7. Gajan (Heir of Ganesha)]]
-- Symbol of intellect, creativity, problem-solving.
-- Species trait: Communes with machines and artifice.
-- Hyper ability: Unlocks any sealed construct.
-
-*** [[id:liontiger][8. Flame Lion / Tiger Lineage)]]
-- Symbol of wrath, protection, divine justice.
-- Species trait: Battle clarity—can see true intentions.
-- Hyper ability: Terror shout—disperses falsehood.
-
-*** [[id:deer-sacred][9. Sacred Deer (Rohini Line)]]
-- Symbol of gentleness, grace, unseen truths.
-- Species trait: Ghost-step—cannot be heard when calm.
-- Hyper ability: Touch restores memory of past lives.
-
-*** [[id:hamsa][10. Hamsa (Celestial Swan)]]
-- Symbol of purity, judgment, divine discernment.
-- Species trait: Detects lies, illusions.
-- Hyper ability: Can traverse between material and spirit realm briefly.
 
 * Humans and Their Role
 :PROPERTIES:
@@ -117,12 +68,4 @@
 - Some revere the sacred species as avatars or gods. Others try to hunt or control them.
 - Most humans are unaware of the **Leela’s truth**—they live disconnected from the source rhythm.
 
-* The Silence and the Echo
-:PROPERTIES:
-:mythic_cycle: Yes
-:theme: Decline and Restoration
-:END:
-
-- As the **Leela** was distorted through greed, conquest, and noise, the sacred species **vanished** or went into hiding.
-- A myth speaks of a coming **Echo**, when the world’s rhythm will reset—and the sacred species will rise again to **guide the balance**.
-- Aag Emberpeak’s journey is believed to be the **first flame of that echo**.
+* [[id:74ad580b-8c21-48a0-853b-f257b8f52345][The Silence and the Echo]]

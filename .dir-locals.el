@@ -1,1 +1,1 @@
-((org-mode . ((org-roam-directory . "~/Documents/GamesOfTheOldGods/"))))
+((org-mode . ((org-roam-directory . "~/Documents/FantasyStory/gamesoftheoldgods/"))))
