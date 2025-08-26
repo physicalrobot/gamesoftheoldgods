@@ -17,30 +17,82 @@
 :theme: Nature vs Civilization, Innocence vs Corruption, Fire as Rebirth
 :END:
 
-** [[id:firebrands-ascent][Act 1 – Ember Among the Ash]]
-*** Born of Fire and Mist
-- Setting: Agni-Shikhara, a high volcanic sanctuary in the Spinebreaker Mountains.
-- Aag Emberpeak is born into the warrior caste Agni-Rakshakas.
-- He trains with them but is more in tune with nature than warfare.
-- Companion: [[id:jyoti][Jyoti]], a sacred sentient Nāga, telepathic and hyper-sensory.
-- Jyoti can:
-  - See through walls
-  - Sense threats
-  - Recall names/faces across lifetimes
-  - Regenerate via shedding
-*** The Vision and the Break
-- Aag receives a fire vision: a shadow spreading across the land.
-- Elders dismiss him.
-- Aag leaves his mountain, guided by instinct and a vow to return stronger.
-*** Into the World Below
-- Aag meets cities, corruption, and cultures disconnected from the earth.
-- The world desires the Ten Sacred Species—Aag realizes Jyoti is one of them.
-*** The Trial of the Ashen Vanara
-- Aag discovers an ancient temple of Agni.
-- Faces Bhaskar, an ember-eyed Vanara who can shift size:
-  - Grows or shrinks at will
-  - Time must balance (large time = small time)
-- Aag loses the fight, but his spirit earns Bhaskar’s loyalty.
+* [[id:firebrands-ascent][Act 1 – Ember Among the Ash]]
+:PROPERTIES:
+:type: narrative outline
+:theme: heartbreak, insignificance, vision, first trial
+:END:
+
+** Born of Fire and Mist
+- Setting: **Agni-Shikhara**, volcanic peaks in the Spinebreaker Mountains.  
+- Aag Emberpeak raised by his **grandparents** after his parents’ death (mystery TBD).  
+- Trains with the **Agni-Rakshakas** but never excels; respected for his kindness, not his skill.  
+- Villagers see him as dependable but unremarkable — “Aag the helper.”  
+- His bond with **Jyoti**, a sacred Nāga:  
+  - Telepathic, hyper-sensory, remembers souls.  
+  - To Aag: friend and confidant.  
+  - To the wider world: a priceless, hunted Spirit-Born.  
+
+** The Heartbreak (Personal Catalyst)
+- Aag harbors love for **Mira**, his childhood friend.  
+- During a fire festival, Mira chooses another man (an accomplished warrior/craftsman) as her partner.  
+- For Mira: practical choice, survival and standing matter more than affection.  
+- For Aag: devastating — confirms his fear of being insignificant.  
+- He hides his hurt but begins questioning his worth: *“If kindness isn’t enough here, what am I for?”*  
+
+** The Fire Rite and the Vision (World Catalyst)
+- Annual sacred rite: villagers meditate before the mountain’s fire to seek omens.  
+- Most see personal symbols (good harvest, strong children).  
+- Aag sees something unprecedented:  
+  - Shadow swallowing the lowlands.  
+  - Sacred Species hunted and broken.  
+  - The fire itself sputtering into ash.  
+- He reports it to the Elders — they dismiss him:  
+  - *“Dreams are not truth. The world below is not our concern.”*  
+- Rejection deepens his fracture: heartbreak + insignificance + now disbelief.  
+
+** The Decision to Leave
+- Aag feels torn:  
+  - Mira’s rejection still burns.  
+  - Elders dismiss his vision, confirming his irrelevance.  
+  - Jyoti whispers: *“The Silence spreads. If you stay, you will wither with it.”*  
+- Motivations overlap:  
+  - **Petty/juvenile** → heartbreak, pride, desire to prove himself.  
+  - **Spiritual instinct** → cannot ignore what he saw in the flames.  
+- He decides to leave with Jyoti — not nobly, but restlessly:  
+  - *“If I can’t matter here, maybe I’ll matter elsewhere. Maybe I’ll find what the fire showed me.”*  
+
+** Into the World Below
+- Aag descends into valleys and riverlands.  
+- First encounters with outsiders shock him:  
+  - Trade-driven morality, bribes, exploitation.  
+  - Compassion treated as weakness.  
+- Rumors of **hunters** spread — men seeking Spirit-Born creatures for wealth and power.  
+- Aag realizes Jyoti is in grave danger; her presence makes him a target.  
+- Jyoti: *“I am not just your friend, Aag. I am one of the Ten. And they will not let us walk in peace.”*  
+
+** The Trial of the Ashen Vanara
+- While fleeing hunters, Jyoti leads Aag into an overgrown, half-buried fire temple.  
+- Inside waits **Bhaskar, the Ashen Vanara**, ember-eyed guardian bound by oath.  
+- Bhaskar declares: *“Only the Firebrand may carry the flame beyond these stones. Prove you are worthy, or perish.”*  
+- Combat trial:  
+  - Bhaskar grows immense, then shrinks tiny, always balancing time.  
+  - Aag is outmatched — bruised, clumsy, desperate.  
+  - Yet he refuses to yield, rising again and again.  
+- Bhaskar halts:  
+  - *“Strength without fire is nothing. Fire without purpose is ash. Yet you rise. Why?”*  
+- Aag admits, not nobly:  
+  - *“I don’t know. Maybe because if I fall and stay down, then I’ll never matter at all.”*  
+- Bhaskar, moved by stubborn will, recognizes the ember within him.  
+- He swears loyalty — not to a chosen hero, but to the boy too stubborn to quit.  
+
+** Closing Beat of Act 1
+- Aag now walks with two companions:  
+  - Jyoti (his tether to the Leela, hunted yet guiding).  
+  - Bhaskar (his shield and trial-witness, bound by vow).  
+- He does not yet know his grand purpose.  
+- But he knows one thing: leaving the mountains was not a mistake.  
+- The world outside is broken — and somehow, **he cannot turn back.**
 
 ** [[id:fall-from-flame][Act 2 – Fall from Flame]]
 *** The Rising Fire
