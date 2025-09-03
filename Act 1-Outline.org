@@ -1,69 +1,72 @@
-* Act 1 – Ember Among the Ash (Revised Outline)
+* Act 1 – Ember Among the Ash (with Instruments Integrated)
 :PROPERTIES:
 :type: narrative arc
 :theme: heartbreak, insignificance, vision, first trial
 :END:
 
 ** Ch.1 — Ash and Morning Light
-- Daily rhythms of Agni-Shikhara; hearth smoke, volcanic glow.  
-- Aag with Grandfather **Darshan** — chores + humor, “lazy bones” banter.  
-- Evening with Grandmother **Shaila** — old Leela myths, reverence for tradition.  
-- Aag feels loved but underestimated, gazes beyond the mountains.  
+- Daily rhythms of Agni-Shikhara.  
+- Aag with **Darshan** (grandfather): chores, joking, Darshan insists on laughter even in work.  
+- Darshan encourages Aag to bring his **little traveling guitar** when working — “a tune makes the bucket lighter.”  
+- Evening: **Shaila** (grandmother) shares Leela myths; Aag clumsily strums along, half-jokingly turning her chants into melody.  
+- Jyoti coils nearby, eyes flickering when certain chords land — hinting that music has deeper resonance.  
 
 ---
 
 ** Ch.2 — Ox and Ember (Training Style)
 - Training yard: Aag insists on greatsword + shield (parents’ legacy).  
-- Mocked as “oxen,” clumsy, awkward; peers excel with spears/bows.  
+- He’s mocked for clumsiness, nicknamed “oxen.”  
 - Darshan reframes: *“Oxen plow the world.”*  
-- Shaila recalls parents’ valor, gives weight to Aag’s choice.  
-- Jyoti subtly present, watching, balancing, sensing.  
-- Aag isn’t graceful — but we glimpse resilience.  
+- Shaila recalls parents’ legacy → gives dignity to his choice.  
+- That night, Aag practices on his **skull-drum**, tapping out rhythms. Jyoti reacts oddly, as though sensing danger in the beat.  
+- Foreshadow: his “music hobby” is tied to the world’s hidden pulse.  
 
 ---
 
 ** Ch.3 — Ember Evenings
-- Aag and **Mira** fetch water/herbs; playful banter, soft teasing.  
-- Mira reveals her practicality: admires discipline, wants stability.  
-- Aag misreads closeness as inevitability; Mira sees only friendship/comfort.  
-- Jyoti coils tighter when Mira speaks of ambition — subtle foreshadow.  
-- Echo foreshadow: faint **Harmonic Whispers** in the mountain wind.  
-- Closing: Aag lies awake, imagining a future with Mira.  
+- Aag and **Mira** fetch water/herbs; playful banter, teasing, hints of warmth.  
+- She teases him for carrying his guitar everywhere — *“You’ll never charm a deer into following you, Aag.”*  
+- He plays her a clumsy song anyway, earnest and heartfelt. She laughs but doesn’t take it as romance.  
+- Mira reveals her practicality: admires warriors with discipline, seeks stability. Aag interprets her care as closeness.  
+- Echo foreshadow: faint **Harmonic Whispers** in mountain wind; Aag strums absentmindedly and the rhythm aligns with it.  
+- Closing: Aag lies awake, practicing a song for Mira that he’ll never get to play at the festival.  
 
 ---
 
 ** Ch.4 — Festival of Fire
-- Color, music, sacred fire rites.  
-- Pairing ceremony: Mira chooses another warrior/craftsman.  
-- Aag hides humiliation; Darshan tries humor, Shaila looks pained.  
-- That night: Aag dreams of shadow swallowing lowlands, sacred eyes watching.  
-- Wakes with ash dust on palms.  
+- Celebration: food, dance, music. Aag joins with his guitar, contributing clumsy joy.  
+- Mira dances with others; eventually chooses another warrior/craftsman in pairing rite.  
+- Aag hides humiliation, Darshan tries humor, Shaila looks pained.  
+- At festival’s close, Aag beats his drum quietly, alone, heartbeat echoing his ache.  
+- Night: dream of shadows swallowing lowlands, Sacred Species hunted, sacred fire sputtering to ash.  
+- He wakes with ash on his palms — the first real omen.  
 
 ---
 
 ** Ch.5 — The Fire Rite
 - Volcano’s sacred chamber; villagers seek personal omens.  
-- Aag’s vision: Sacred Species hunted, fire sputtering into ash.  
+- Aag’s vision: lowlands engulfed, Sacred Species hunted, fire sputtering into ash.  
 - Elders dismiss him: *“Dreams are not truth; the world below is not our concern.”*  
-- Shaila wants to believe, but stays silent, bound by consensus.  
-- Aag feels utterly abandoned.  
-- Echo backdrop: embers pulse strangely, faint **Awakening of Resonance.**  
-- Alone, Aag hears Jyoti whisper: *“The Silence spreads. If you stay, you will wither with it.”*  
+- Shaila stays silent, torn.  
+- Embers pulse strangely (Echo sign).  
+- In despair, Aag plays a soft tune on his guitar by the dying fire. Jyoti whispers: *“The Silence spreads. If you stay, you will wither with it.”*  
 
 ---
 
 ** Ch.6 — The Pack and the Parting
-- Aag wrestles with heartbreak + rejection; Darshan advises: *“Walk toward something, not away.”*  
-- Shaila gifts prayer-cloth (family sigil), but cannot oppose the Elders.  
-- Aag’s choice is messy: part pride, part pain, part instinct from the vision.  
-- Quiet farewell: Jyoti coils like a vow.  
-- Aag descends the switchbacks at dawn — not as a hero, but as a restless, wounded man.  
+- Aag struggles with rejection and humiliation.  
+- Darshan: *“Walk toward something, not away.”*  
+- Shaila gifts him a **prayer-cloth** (family sigil).  
+- Aag takes sword, shield, guitar, and drum — mocking himself: *“Too much to carry for a boy who can’t even win a spar.”*  
+- Farewell: Jyoti coils like a vow.  
+- He descends the mountain at dawn, music and weapons both heavy.  
 
 ---
 
 ** Ch.7 — River Dust and Crooked Smiles
-- First descent into valleys and trade roads.  
-- Bustle of barter, bribes, exploitation — kindness seen as weakness.  
+- First descent into valleys, trade roads.  
+- Bustling barter, bribes, exploitation — kindness treated as weakness.  
+- Street performers with crude instruments mock Aag’s guitar.  
 - Rumors of Spirit-Born bounties: *“a serpent that remembers souls.”*  
 - Aag realizes Jyoti makes him a target.  
 
@@ -71,31 +74,35 @@
 
 ** Ch.8 — Teeth in the Reeds
 - Ambush at river ford by hunters.  
-- Aag fights badly but bravely — oversized gear shields Jyoti more than it strikes.  
-- With Jyoti’s foresight, they narrowly escape.  
-- Aag realizes he cannot protect Jyoti alone.  
+- Aag fights badly but bravely — oversized gear shields Jyoti more than strikes.  
+- In desperation, he beats his drum to rally himself; the rhythm throws off the hunters’ timing.  
+- They escape narrowly, battered. Aag realizes: he cannot protect Jyoti alone.  
 
 ---
 
 ** Ch.9 — The Ashen Door
 - Jyoti leads him to an overgrown fire temple, glyphs glowing at his touch.  
+- His guitar hums faintly, strings vibrating without being plucked — resonance with the temple.  
 - *“Within sleeps a guardian of vows. If we enter, we must be judged.”*  
-- Despite wounds and humiliation, Aag chooses to enter — desperate for strength.  
+- Despite wounds, Aag chooses to enter.  
 
 ---
 
 ** Ch.10 — Trial of the Ashen Vanara
-- **Bhaskar** awakens; ember-flecked, size-shifting.  
-- Aag is tossed, battered, humiliated — but rises again and again.  
+- **Bhaskar** awakens, ember-eyed.  
+- Trial: Aag is battered and humiliated, sword and shield feel too heavy.  
+- He rises again and again, stubborn.  
 - When asked *“Why rise?”*, Aag admits: *“If I stay down, I stay no one.”*  
 - Bhaskar bows: *“You are not yet purpose — but you are fire.”*  
-- Swears loyalty — not to prophecy, but to Aag’s unyielding will.  
+- Vows to follow.  
 
 ---
 
 ** Ch.11 — Closing Beat
 - Aag now walks with:  
-  - Jyoti — Leela’s tether, hunted, guiding.  
-  - Bhaskar — trial-witness, protector.  
-- No grand purpose yet, but leaving was not a mistake.  
-- Act 1 ends: hunted, unready, but no longer alone.
+  - Jyoti (Leela’s tether, hunted).  
+  - Bhaskar (trial-witness, protector).  
+- Sword + Shield = parents’ legacy.  
+- Guitar + Drum = grandparents’ gifts, foreshadowing his cosmic role as resonator.  
+- No grand purpose yet — but leaving was not a mistake.  
+- Act 1 ends with the trio stepping into the wider world, hunted but not alone.
